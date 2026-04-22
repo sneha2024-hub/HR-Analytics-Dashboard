@@ -24,7 +24,7 @@ This project analyzes employee attrition patterns using Power BI. The dashboard 
 
 ## 📸 Dashboard Preview
 
-![Dashboard](HR-dashboard.png)
+![Dashboard](HR Analytics Dashboard.png)
 
 ## 🚀 Conclusion
 

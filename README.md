@@ -1,5 +1,5 @@
 <img width="1465" height="840" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/b4d1c1ba-ea96-4b64-80ec-6381972402e4" />
-# 📊 HR Analytics Dashboard: Employee Attrition Analysis
+## 📊 HR Analytics Dashboard: Employee Attrition Analysis
 
 ## 🔍 Project Overview
 
@@ -22,10 +22,6 @@ This project analyzes employee attrition patterns using Power BI. The dashboard 
 * Higher attrition observed in lower salary ranges
 * Certain job roles show higher turnover
 * Department-wise variation in employee retention
-
-## 📸 Dashboard Preview
-
-[Dashboard](HR_Analytics_Dashboard.png)
 
 ## 🚀 Conclusion
 
